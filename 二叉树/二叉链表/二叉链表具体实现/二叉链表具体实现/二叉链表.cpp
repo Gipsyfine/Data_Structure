@@ -363,3 +363,5 @@ void Draw(BiTree root)
 		Draw_level(root->lchild, true, str);
 	}
 }
+
+// test

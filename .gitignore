@@ -1,0 +1,82 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Generated files
+bin/
+build/
+debug/
+release/
+x64/
+*.vcxproj.*
+*.sdf
+*.opensdf
+*.aps
+*.ncb
+*.vcxproj
+*.vcproj
+*.vcxitems
+*.user
+*.filters
+*.ilk
+*.pdb
+*.idb
+*.obj
+*.res
+*.suo
+*.log
+
+# Visual Studio files
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.sln
+*.suo
+*.dll
+*.pdb
+*.user
+*.aps
+*.zip
+*.vspscc
+*.vssscc
+*.log
+*.cache
+*.scc
+*.cachefile
+*.ilk
+*.meta
+*.obj
+*.ncb
+*.opensdf
+*.sdf
+*.VC.opendb
+*.VC.db
+*.VC.VC.opendb
+*.VC.VC.db
+*.sln.docstates
+
+# vscode files
+*.vscode
